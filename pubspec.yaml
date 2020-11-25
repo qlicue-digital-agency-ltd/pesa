@@ -1,8 +1,8 @@
 name: pesa
-description: A new Flutter package project.
+description: A wrapper around mpesa open API.
 version: 0.0.1
-author:
-homepage:
+author: Qlicue digital agency
+homepage: https://github.com/qlicue-digital-agency-ltd/pesa
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
